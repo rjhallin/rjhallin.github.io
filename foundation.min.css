@@ -177,6 +177,9 @@ html {
     margin: 0 0 2rem 0;
   }
 }
+.row-column {
+  text-align: center;
+}
 body {
   margin:0
 }
