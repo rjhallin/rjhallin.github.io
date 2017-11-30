@@ -2740,6 +2740,7 @@ select[multiple] {
 }
 .callout.large {
   padding: 3rem;
+  background-position: center;
 }
 .close-button {
   position: absolute;
