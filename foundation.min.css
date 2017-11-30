@@ -177,9 +177,6 @@ html {
     margin: 0 0 2rem 0;
   }
 }
-.row-column {
-  text-align: center;
-}
 body {
   margin:0
 }
@@ -1545,6 +1542,7 @@ h2 {
 }
 h3 {
   font-size: 1.1875rem;
+  text-align: center;
 }
 h3,
 h4 {
