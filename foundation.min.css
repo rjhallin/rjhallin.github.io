@@ -2702,7 +2702,7 @@ select[multiple] {
 }
 .callout {
   position: relative;
-  margin: 0 0 1rem;
+  margin: 0 0 2.5rem;
   padding: 1rem;
   border: 1px solid hsla(0, 0%, 4%, 0.25);
   border-radius: 0;
