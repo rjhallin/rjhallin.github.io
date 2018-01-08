@@ -3945,6 +3945,9 @@ html.is-reveal-open body {
 .reveal.without-overlay {
   position: fixed;
 }
+.row, hr {
+  margin-top: 2rem;
+}
 .row.column.text-center {
   color: white;
   padding: 3rem 0;
