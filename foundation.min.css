@@ -2850,6 +2850,11 @@ select[multiple] {
     display: block;
   }
 }
+@media screen and (max-width: 39.9375rem) {
+  h1 {
+    font-size: 2.5rem;
+  }
+}
 .menu.simple li {
   display: inline-block;
   vertical-align: top;
@@ -3951,6 +3956,7 @@ html.is-reveal-open body {
 .row.column.text-center {
   color: white;
   padding: 3rem 0;
+  background-color: rgba(0, 0, 0, 0.5)
 }
 .slider {
   position: relative;
